@@ -45,14 +45,15 @@
 
 ### New Skills
 <div align="center">  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original-wordmark.svg" alt="Django" height="50" /></a>  
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/spring-boot-icon.svg" alt="Spring Boot" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google-cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-icon.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original-wordmark.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.postfix.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postfix-original-wordmark.svg" alt="Postfix" height="50" /></a>  
-<a href="https://www.dovecot.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dovecot-icon.svg" alt="Dovecot" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/django-original.svg" alt="Django" height="50" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/spring-boot-original-wordmark.svg" alt="Spring Boot" height="50" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/google-cloud-original-wordmark.svg" alt="GCP" height="50" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/jenkins-original.svg" alt="Jenkins" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/nginx-original.svg" alt="Nginx" height="50" /></a>
+<a href="https://www.postfix.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/postfix-original.svg" alt="Postfix" height="50" /></a>
+<a href="https://www.dovecot.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/dovecot-original.svg" alt="Dovecot" height="50" /></a>
+
 </div>
 
 </td></tr></table>  
