@@ -1,86 +1,53 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/114479113?s=400&u=3f8ba77a03b773c3ce7004b32d52a565af29d6f5&v=4" align="center" style="width: 100%" />
-</div>  
-
-<br/>  
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <h1>👋 Hi, I'm Hammad Tahir</h1>
+  <p>Junior Software Engineer passionate about backend development, automation, and AI-driven solutions.</p>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🚀 About Me
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
+- 📍 Based in Lahore, Pakistan
+- 💼 1 year of professional experience in scalable API services and secure integrations
+- 🎯 Specialties: Spring Boot, Django REST Framework, Docker, CI/CD pipelines, and AI/ML integration
 
-</td><td valign="top" width="33%">
+---
 
+## 🛠️ Skills
 
-### New Skills
-<div align="center">  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/django-original.svg" alt="Django" height="50" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/spring-boot-original-wordmark.svg" alt="Spring Boot" height="50" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/google-cloud-original-wordmark.svg" alt="GCP" height="50" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/jenkins-original.svg" alt="Jenkins" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/nginx-original.svg" alt="Nginx" height="50" /></a>
-<a href="https://www.postfix.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/postfix-original.svg" alt="Postfix" height="50" /></a>
-<a href="https://www.dovecot.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!svg/dovecot-original.svg" alt="Dovecot" height="50" /></a>
+**Languages & Frameworks**
+- Java • Python • C++ • Django • Spring Boot • Flask
 
-</div>
+**APIs & Databases**
+- RESTful Design • Django DRF • PostgreSQL • MySQL • Firebase Realtime DB
 
-</td></tr></table>  
+**DevOps & Infrastructure**
+- Docker • GitHub Actions • Jenkins • Nginx • Apache • Linux VPS • GCP
 
-<br/>  
+**Security & Integrations**
+- JWT • OAuth2 • SSL/TLS • IP Whitelisting • Postfix/Dovecot
 
-## Connect with me  
+**AI/ML & Frontend**
+- Google ML Kit • TensorFlow • scikit-learn • Flutter • React (basic)
 
-<div align="center">
-<a href="https://github.com/Hadi11223344" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/t20131728" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/hammad-tahir1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/TheLogicGuy-Hammad" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
+---
 
-<br/>  
+## 📂 Highlighted Projects
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hadi11223344&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+- **AI-Powered Fashion Recommender**: End-to-end pipeline integrating deep learning models in Django backend and Flutter frontend for real-time outfit suggestions.
+- **Tax Form Automation**: Spring Boot service with PDFBox and ICU4J, secured via SSL/TLS and CI/CD workflows.
+- **TinyScript ANTLR4 Framework**: Custom scripting language implementation with ANTLR4 and StringTemplate for Java code generation.
+- **Secure Email Infrastructure**: Enterprise-grade Postfix/Dovecot setup with TLS, SMTP auth, and Nginx/Apache reverse proxy.
 
-<br/>  
+---
+
+## 🤝 Let's Connect
+
+- **Email:** hammadtahir1@protonmail.com  
+- **LinkedIn:** [hammad-tahir1](https://linkedin.com/in/hammad-tahir1)  
+- **GitHub:** [Hadi11223344](https://github.com/Hadi11223344)  
+
+---
+
+<small>Generated with ❤️ by Hammad Tahir</small>
 
